@@ -1,8 +1,6 @@
-# 🎬 Netflix Content Insights & Exploratory Data Analysis
+# 🎬 Netflix Movies & TV_Shows Data Analysis
 
-**An Exploratory Data Analytics Project using Python**
-
-## 📌 Project Overview
+## 📌 About Project
 
 This project analyze Netflix's Movies and TV Shows to uncover meaningful patterns in its content library. By analyzing content categories, release years, genres, ratings, and country-related information, the project provides a better understanding of the platform's content distribution.
 
@@ -110,16 +108,26 @@ Additional date-related information was prepared to support the analysis.
 
 Matplotlib and Seaborn were used to present the analysis through different visual formats.
 
-**Visualizations included:**
+**Screenshots:**
 
-* Bar Chart - Content type distribution and top genres.
-* Histogram -Distribution of release years.
-* Scatter Plot - Release year versus year added.
-* Box Plot - Release-year outliers and comparison of content types.
-* Pie Chart - Distribution of the five most frequent ratings.
-* Correlation Heatmap -Relationship between selected numerical variables.
 
-## 📊 Key Findings
+<img width="859" height="470" alt="download" src="https://github.com/user-attachments/assets/b94e6da1-78db-47e0-a5c8-c6654479d456" />
+
+**Conclusion:**
+The scatter plot shows that title was released is not necessarily the same as the year it became available on Netflix.
+
+<img width="859" height="590" alt="download" src="https://github.com/user-attachments/assets/709553e3-6778-407b-ab43-3fb8271d3e74" />
+
+**Conclusion:**
+The graph helps identify the most frequently represented genres: International movies and drama
+
+<img width="637" height="658" alt="download" src="https://github.com/user-attachments/assets/5ca12229-b7ea-4b1d-81b1-8b8af9ce045a" />
+
+
+**Conclusion:**
+The pie chart show around half content falls under mature audiance category
+
+## 📊 Key Findings after Data Visualization
 
 * **Content Type Distribution:** Movies make up a larger proportion of the Netflix catalogue than TV Shows.
 * **Release Year Trends:** The release-year distribution highlights how Netflix's catalogue represents content from different periods.
