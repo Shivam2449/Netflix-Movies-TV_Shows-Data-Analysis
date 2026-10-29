@@ -111,23 +111,24 @@ Matplotlib and Seaborn were used to present the analysis through different visua
 **Screenshots:**
 
 
-<img width="859" height="470" alt="download" src="https://github.com/user-attachments/assets/b94e6da1-78db-47e0-a5c8-c6654479d456" />
+<img width="500" height="300" alt="download" src="https://github.com/user-attachments/assets/b94e6da1-78db-47e0-a5c8-c6654479d456" />
 
 **Conclusion:**
 The scatter plot shows that title was released is not necessarily the same as the year it became available on Netflix.
 
-<img width="859" height="590" alt="download" src="https://github.com/user-attachments/assets/709553e3-6778-407b-ab43-3fb8271d3e74" />
+
+<img width="500" height="300" alt="download" src="https://github.com/user-attachments/assets/709553e3-6778-407b-ab43-3fb8271d3e74" />
 
 **Conclusion:**
-The graph helps identify the most frequently represented genres: International movies and drama
+This graph helps in identify the most frequently represented genres: International movies and drama
 
-<img width="637" height="658" alt="download" src="https://github.com/user-attachments/assets/5ca12229-b7ea-4b1d-81b1-8b8af9ce045a" />
 
+<img width="500" height="300" alt="download" src="https://github.com/user-attachments/assets/5ca12229-b7ea-4b1d-81b1-8b8af9ce045a" />
 
 **Conclusion:**
 The pie chart show around half content falls under mature audiance category
 
-## 📊 Key Findings after Data Visualization
+## 📊 Conclusion after Data Visualization
 
 * **Content Type Distribution:** Movies make up a larger proportion of the Netflix catalogue than TV Shows.
 * **Release Year Trends:** The release-year distribution highlights how Netflix's catalogue represents content from different periods.
